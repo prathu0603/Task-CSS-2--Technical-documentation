@@ -1,0 +1,56 @@
+body{
+    font-family: "Segoe UI",Arial,sans-serif;
+    text-decoration: none;
+}
+.div1{
+    position: absolute;
+    margin-left: 1px;
+    padding: 29px 0px 0px 20px;
+    background-color: rgba(224, 218, 218, 0.712);
+    font-size: 40px;
+    width: 540px;
+}
+
+.line{
+    position: absolute;
+    border-left: 2px solid black;
+    margin-left: 559px;
+    height: 1567px;
+}
+
+.div2{
+    position: absolute;
+    margin-left: 600px;
+    font-size: 40px;
+    padding-top: 50px ;
+}
+
+span{
+    display: block;
+    padding: 2px 1px 1px 16px;
+}
+.div1 span:hover{
+    background-color: rgb(80, 206, 80);
+    cursor: pointer;
+}
+
+img{
+    height: 500px;
+    width: 1199px;
+    padding: 33px 0px 0px 99px;
+    opacity: 0.3;
+}
+.imgtext{
+    position: absolute;
+    top: 239px;
+    left: 165px;
+    font-size: 33px;
+}
+o{
+    color: rgb(245, 27, 27);
+}
+
+.example{
+    padding: 60px 0px 10px 0px;
+    background-color:  rgba(224, 218, 218, 0.925);
+}
